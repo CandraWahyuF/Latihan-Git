@@ -1,4 +1,4 @@
 test test test ...
 disini masih buat latihan pertama create new file dari github langsung
-belum upload file nya
 nah dibaris ke4 ini gua ngelakuin edit file untuk pertama kan satu baris aja cukup lah
+nah disini gua edit lagi buat hapus baru nomor 3 dan nambahin kalimat gajelas di baris 5 (sekrang jadi baris 4)
