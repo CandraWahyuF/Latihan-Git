@@ -8,3 +8,10 @@ nah abis masukin beberapa kata disini
 mau coba nge push ke github lewat desktop github
 ada 2 file nih yang di push
 mari kita lihat gimana
+
+
+wah bisa cokk
+ternyata lebih mudah pake github desktop
+gaperlu ngoding di gitbash 
+cuman tingal klik klik doang
+hahahah
